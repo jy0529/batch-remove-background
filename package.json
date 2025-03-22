@@ -1,0 +1,19 @@
+{
+  "name": "batch-remove-background",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.test.mjs"
+  },
+  "keywords": [],
+  "author": "Jy<[purejy@163.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@remove-background-ai/rembg.js": "^1.1.10",
+    "dotenv": "^16.4.7"
+  }
+}
